@@ -1,10 +1,12 @@
-# DEPRECATED - This repo will be removed and archived soon, see https://groups.google.com/forum/#!topic/loopbackjs/w038RvqHeYI
 
----
-
-#loopback-testing
+# Unofficial loopback-testing
 
 **Utilities for testing LoopBack apps**
+
+## Unofficial
+
+Strongloop has [deprecated](https://github.com/strongloop/loopback-testing/commit/bf393b4cc822b0a51420f1d2e74f137882d775b1) the original loopback-testing.
+This repository is a fork made by [iGLOO](http://igloo.be). Feel free to contribute!
 
 ## overview
 
