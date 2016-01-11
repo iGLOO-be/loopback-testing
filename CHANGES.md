@@ -1,3 +1,14 @@
+2016-01-11, Version 1.3.0
+=========================
+
+ * Fork from strongloop (Loic Mahieu)
+
+ * Fix: wrong var names for givenUser (Loic Mahieu)
+
+ * bump all dependencies (Loic Mahieu)
+
+ * Travis tests (Loic Mahieu)
+
 2015-06-24, Version 1.2.0
 =========================
 
