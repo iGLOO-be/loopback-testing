@@ -3,6 +3,8 @@
 
 **Utilities for testing LoopBack apps**
 
+[![Build Status](https://travis-ci.org/iGLOO-be/loopback-testing.svg?branch=master)](https://travis-ci.org/iGLOO-be/loopback-testing)
+
 ## Unofficial
 
 Strongloop has [deprecated](https://github.com/strongloop/loopback-testing/commit/bf393b4cc822b0a51420f1d2e74f137882d775b1) the original loopback-testing.
