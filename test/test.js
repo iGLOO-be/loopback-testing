@@ -17,6 +17,8 @@ describe('helpers', function () {
     ['shouldBeAllowed',
      'shouldBeDenied',
      'shouldNotBeFound',
+     'shouldBeForbidden',
+     'shouldBeRejected',
      'shouldBeAllowedWhenCalledAnonymously',
      'shouldBeDeniedWhenCalledAnonymously',
      'shouldBeAllowedWhenCalledUnauthenticated',
