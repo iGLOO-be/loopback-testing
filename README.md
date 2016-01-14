@@ -110,3 +110,56 @@ new TestDataBuilder()
     //   context.notification
   });
 ```
+
+## Function reference
+
+LoopBack Testing (lt):
+===
+
+  * `describe`
+  * `it`
+  * `beforeEach`
+  * `TestDataBuilder`
+
+`lt.describe`:
+----
+
+  * `staticMethod`
+  * `instanceMethod`
+  * `whenCalledRemotely`
+  * `whenLoggedInAsUser`
+  * `whenLoggedInAsUserWithRole`
+  * `whenCalledByUser`
+  * `whenCalledByUserWithRole`
+  * `whenCalledAnonymously`
+  * `whenCalledUnauthenticated`
+
+`lt.it`:
+----
+
+  * `shouldBeAllowed`
+  * `shouldBeDenied`
+  * `shouldNotBeFound`
+  * `shouldBeForbidden`
+  * `shouldBeRejected`
+  * `shouldBeAllowedWhenCalledAnonymously`
+  * `shouldBeDeniedWhenCalledAnonymously`
+  * `shouldBeAllowedWhenCalledUnauthenticated`
+  * `shouldBeDeniedWhenCalledUnauthenticated`
+  * `shouldBeAllowedWhenCalledByUser`
+  * `shouldBeDeniedWhenCalledByUser`
+  * `shouldBeAllowedWhenCalledByUserWithRole`
+  * `shouldBeDeniedWhenCalledByUserWithRole`
+
+`lt.beforeEach`:
+----
+
+  * `withApp`
+  * `withArgs`
+  * `givenModel`
+  * `givenUser`
+  * `givenUserWithRole`
+  * `givenLoggedInUser`
+  * `givenLoggedInUserWithRole`
+  * `givenAnUnauthenticatedToken`
+  * `givenAnAnonymousToken`
