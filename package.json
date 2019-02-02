@@ -24,7 +24,7 @@
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "loopback": "^2.26.2",
+    "loopback": "2.26.2",
     "mocha": "^2.3.4",
     "prettier": "^1.16.3"
   },
